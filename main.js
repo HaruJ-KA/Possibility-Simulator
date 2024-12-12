@@ -152,28 +152,4 @@ function btn3Clicked() {
 
   outList[randnum1 + randnum2].innerHTML = numList[randnum1 + randnum2];
 
-  // if (randnum1 + randnum2 == 2) {
-
-  //   out2.innerHTML = num2;
-  // } else if (randnum1 + randnum2 == 3) {
-  //   //THREE
-  //   num3++;
-  //   out3.innerHTML = num3;
-  // } else if (randnum1 + randnum2 == 4) {
-  //   //FOUR
-  //   num4++;
-  //   out4.innerHTML = num4;
-  // } else if (randnum1 + randnum2 == 5) {
-  //   //FIVE
-  //   num5++;
-  //   out5.innerHTML = num5;
-  // } else if (randnum1 + randnum2 == 6) {
-  //   //SIX
-  //   num6++;
-  //   out6.innerHTML = num6;
-  // } else if (randnum1 + randnum2 == 7) {
-  //   //SEVEN
-  //   num7++;
-  //   out7.innerHTML = num7;
-  // }
 }
