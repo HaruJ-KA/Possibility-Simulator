@@ -103,7 +103,7 @@ let num10 = 0;
 let num11 = 0;
 let num12 = 0;
 
-let kys = 0;
+let die0 = 0;
 let die1 = "<img src ='img/1.png' >";
 let die2 = "<img src ='img/2.png' >";
 let die3 = "<img src ='img/3.png' >";
@@ -113,7 +113,7 @@ let die6 = "<img src ='img/6.png' >";
 
 let dieList = [kys, die1, die2, die3, die4, die5, die6];
 let numList = [
-  kys,
+  die0,
   num2,
   num3,
   num4,
@@ -127,7 +127,7 @@ let numList = [
   num12,
 ];
 let outList = [
-  kys,
+  die0,
   out2,
   out3,
   out4,
