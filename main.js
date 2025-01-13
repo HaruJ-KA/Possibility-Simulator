@@ -111,7 +111,7 @@ let die4 = "<img src ='img/4.png' >";
 let die5 = "<img src ='img/5.png' >";
 let die6 = "<img src ='img/6.png' >";
 
-let dieList = [kys, die1, die2, die3, die4, die5, die6];
+let dieList = [die0, die1, die2, die3, die4, die5, die6];
 let numList = [
   die0,
   num2,
